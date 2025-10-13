@@ -1,0 +1,182 @@
+[
+    {
+        "name": "BONUS #TraktiranXL 28th Anniversary",
+        "price": "Rp500",
+        "detail": "BONUS #TraktiranXL 28th Anniversary 2.5gb\npastikan PULSA Anda Cukup \nPilih spiner untuk berapa percobaan pembayaran max 10 ",
+        "packages": [
+            {
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+                "is_enterprise": false,
+                "variant_name": "Special For You",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "Special For You",
+                "order": 7
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 186000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Paket Akrab",
+        "price": "Rp0",
+        "detail": "Bonus Paket Akrab paket 7.5gb lebih\n harga Rp0 sedia kan sajah 2k\nPilih spiner untuk berapa percobaan pembayaran max 10 ",
+        "packages": [
+            {
+                "family_name": "Akrab",
+                "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
+                "is_enterprise": false,
+                "variant_name": "Akrab",
+                "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
+                "option_name": "19GB for 2 Members",
+                "order": 38
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "XCF_BONUS_ACTIVATION",
+        "price": "Rp0",
+        "detail": "Bonus Activesi paket ? gb lebih\n harga Rp0 sedia kan sajah 2k\nPilih spiner untuk berapa percobaan pembayaran max 10 ",
+        "packages": [
+            {
+                "family_name": "activation",
+                "family_code": "0069ab97-3e54-41ef-87ea-807621d1922c",
+                "is_enterprise": false,
+                "variant_name": "activation",
+                "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
+                "option_name": "19GB for 2 activation",
+                "order": 1
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Xtra Combo Kuota Utama 15 GB",
+        "price": "Rp0",
+        "detail": "Bonus Xtra Combo Plus paket ? gb lebih\n harga Rp0 sedia kan sajah 2k\nPilih spiner untuk berapa percobaan pembayaran max 10 ",
+        "packages": [
+            {
+                "family_name": "Apps Quota Xtra Combo Plus",
+                "family_code": "8080ddcf-18c5-4d6d-86a4-89eb8ca5f2d1",
+                "is_enterprise": false,
+                "variant_name": "Bonus Xtra Combo Plus",
+                "variant_code": "0210c7da-5148-4f6a-891d-2acf6b7499a9",
+                "option_name": "Kuota Utama 15GB",
+                "order": 52
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Xtra Combo Kuota Malam 72 GB",
+        "price": "Rp0",
+        "detail": "Bonus Xtra Combo Plus paket ? gb lebih\n harga Rp0 sedia kan sajah 2k\nPilih spiner untuk berapa percobaan pembayaran max 10 ",
+        "packages": [
+            {
+                "family_name": "Apps Quota Xtra Combo Plus",
+                "family_code": "8080ddcf-18c5-4d6d-86a4-89eb8ca5f2d1",
+                "is_enterprise": false,
+                "variant_name": "Bonus Xtra Combo Plus",
+                "variant_code": "0210c7da-5148-4f6a-891d-2acf6b7499a9",
+                "option_name": "Kuota Malam 72GB",
+                "order": 26
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Bonus Xtra Combo YouTube & TikTok 84GB ",
+        "price": "Rp0",
+        "detail": "Bonus Xtra Combo Plus paket ? gb lebih\n harga Rp0 sedia kan sajah 2k\nPilih spiner untuk berapa percobaan pembayaran max 10 ",
+        "packages": [
+            {
+                "family_name": "Apps Quota Xtra Combo Plus",
+                "family_code": "8080ddcf-18c5-4d6d-86a4-89eb8ca5f2d1",
+                "is_enterprise": false,
+                "variant_name": "Bonus Xtra Combo Plus",
+                "variant_code": "0210c7da-5148-4f6a-891d-2acf6b7499a9",
+                "option_name": "YouTube & TikTok 42GB",
+                "order": 1
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    }
+]
