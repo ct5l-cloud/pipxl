@@ -178,5 +178,35 @@
         "overwrite_amount": -1,
         "token_confirmation_idx": 0,
         "amount_idx": -1
+    },
+    {
+        "name": "Kuota Aplikasi Xtra Combo Plus 15GB Beta",
+        "price": "Rp0",
+        "detail": "Bonus Xtra Combo Plus paket ? gb lebih\n harga Rp0 sedia kan sajah 2k\nPilih spiner untuk berapa percobaan pembayaran max 10 ",
+        "packages": [
+            {
+                "family_name": "Bonus Xtra Combo Plus 15GB",
+                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
+                "is_enterprise": false,
+                "variant_name": "Bonus Xtra Combo Plus",
+                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
+                "option_name": "YouTube & TikTok 42GB",
+                "order": 27
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
     }
 ]
